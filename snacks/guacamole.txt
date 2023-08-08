@@ -4,6 +4,7 @@ tomatoes
 onions
 salt 
 pepper
+more tomatoes
 
 Instructions:
 1. mash avocados
